@@ -1,13 +1,13 @@
 
+![Imágen Reto Semana 1](img/reto_s1.jpg)
+# :notebook_with_decorative_cover: Repositorio Git de Estudio
 
-# Repositorio Git de Estudio
-
-## Objetivo de este Repo
+## :heavy_check_mark: Objetivo de este Repo
 
 Hacer un repo de git de estudio, con los conceptos
 que se van aprendiendo en el curso de Inteligencia Artificial de Innovación Virtual. 
 
-## Contenidos
+## :bookmark: Contenidos
 
 1. [Introducción a los fundamentos de Azure](pages/intro_azure_fundamentals.md)
 2. [Conceptos Fundamentales](pages/discuss_azure_fundamental_concepts.md)
