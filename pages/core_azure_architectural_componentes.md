@@ -1,0 +1,1 @@
+# Componentes Arquitectónicos Principales de Azure
