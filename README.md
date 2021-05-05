@@ -3,7 +3,6 @@
 # :notebook_with_decorative_cover: Repositorio Git de Estudio
 
 ## :heavy_check_mark: Objetivo de este Repo
-
 Hacer un repo de git de estudio, con los conceptos
 que se van aprendiendo en el curso de Inteligencia Artificial de Innovación Virtual. 
 
