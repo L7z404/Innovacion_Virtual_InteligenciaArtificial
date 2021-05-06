@@ -15,5 +15,5 @@ que se van aprendiendo en el curso de Inteligencia Artificial de Innovación Vir
 
 
 >Participantes:
-- Leonel Castillo Castañeda
-- Francisco Javier Avelar Rosales
+>- Leonel Castillo Castañeda
+>- Francisco Javier Avelar Rosales
