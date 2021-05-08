@@ -86,7 +86,7 @@ _Al comprender la definición de la computación no servidor, es importante tene
 # ¿Qué puedo hacer con Azure?
 Azure proporciona más de cien servicios que permiten hacer todo tipo de cosas: desde ejecutar las aplicaciones existentes en máquinas virtuales hasta explorar nuevos paradigmas de software, como bots inteligentes y realidad mixta.
 
-# ¿Cómo funciona Azure?
+## ¿Cómo funciona Azure?
 - Es una plataforma nube pública y privada.
 - Utiliza tecnología llamada virtualización.
 - Usa el Hypervisor para emular todas las funciones de una computadora en una maquina virtual y demás.
@@ -96,7 +96,7 @@ Azure proporciona más de cien servicios que permiten hacer todo tipo de cosas: 
      >   - Desde el portal de azure y mediante un api se conectan al orchestrator y por ese a lo demás
   > - Corren un Fabric Controller
 
-# ¿Qué es Azure Portal?
+## ¿Qué es Azure Portal?
 Azure Portal es una consola unificada basada en web que proporciona una alternativa a las herramientas de línea de comandos. 
 
 Con Azure Portal, puede administrar la suscripción de Azure mediante una interfaz gráfica de usuario. Puede:
@@ -113,7 +113,7 @@ Con Azure Portal, puede administrar la suscripción de Azure mediante una interf
 
 >Azure Portal no deja de actualizarse y no requiere tiempo de inactividad para las actividades de mantenimiento.
 
-# ¿Qué es Azure Marketplace?
+## ¿Qué es Azure Marketplace?
 Azure Marketplace facilita la conexión entre los usuarios y los partners de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, optimizados para ejecutarse en Azure. 
 
 Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de los principales proveedores de servicios. 
